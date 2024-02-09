@@ -1,6 +1,7 @@
 #parse month should take in the text of the month and return the number 
 #as a string
 #January -> 1 (as a string)
+#please work
 def parse_month(month):
     months = {
         "January": "01", "February": "02", "March": "03", "April": "04",
